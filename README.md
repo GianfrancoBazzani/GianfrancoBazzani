@@ -6,7 +6,7 @@
 - **[EVM Storage Codes](https://evm-storage.codes/)**: a web tool that shows, compares and analyzes the storage layout of EVM contracts · [Code](https://github.com/GianfrancoBazzani/evm-storage.codes/)
 - **[Uniswap v4 Hook Address Miner](https://v4hookaddressminer.xyz/)**: a multithread vanity address miner for Uniswap v4 hooks · [Code](https://github.com/GianfrancoBazzani/uni-v4-hook-address-miner/)
 - **[OpenZeppelin MCP](https://mcp.openzeppelin.com/)**: MCP servers that give AI tools access to the OpenZeppelin contract libraries · [Code](https://github.com/OpenZeppelin/openzeppelin-mcp)
-- **[CriptoNuvis Collection](https://opensea.io/collection/criptonuvis-27269542)**: a gift for the wedding of my friends: an NFT collection for the guests, a shared photo gallery and a crypto vault · [Code](https://github.com/GianfrancoBazzani/cripto-nuvis-collection)
+- **[CriptoNuvis Collection](https://opensea.io/collection/criptonuvis-27269542)**: a gift for the wedding of my friends that is an NFT collection for the guests · [Code](https://github.com/GianfrancoBazzani/cripto-nuvis-collection)
 
 ## 📓 Notes
 
