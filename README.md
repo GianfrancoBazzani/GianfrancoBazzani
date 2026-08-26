@@ -16,3 +16,4 @@
 | Aug 2024 | **RDEX Hook**: Uniswap v4 hook for compliant trading of regulated ERC-3643 tokens | Uniswap Hook Incubator 2 Hookathon 2024 |  | [Code](https://github.com/Interna1ta/drex-hook) |
 | Jun 2024 | **Smartrental**: on-chain rental agreements for crypto tenants and non-crypto owners | ETHPrague 2024 |  | [Devfolio](https://devfolio.co/projects/smartrental-9eeb) · [Code](https://github.com/OpenTechne/Smartrental-hackaton-eth-prague-2024) |
 | Jun 2023 | **The Sand Walker**: a gamified platform to learn Cairo 1.0 contract vulnerabilities | ETHPrague 2023 |  | [Devfolio](https://devfolio.co/projects/the-sand-walker-9191) · [Code](https://github.com/OpenTechne/TheSandWalker) |
+| Aug 2022 | **zk Verifiable Credentials DB**: encrypted on-chain credentials database with selective disclosure through ZK proofs | zkDAO @ Harmony | 🎖️ zkDAO Prize Grant for Builders | [Code](https://github.com/GianfrancoBazzani/zk-Verifiable-Credentials-DB) |
