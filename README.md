@@ -17,3 +17,14 @@
 | Jun 2024 | **Smartrental**: on-chain rental agreements for crypto tenants and non-crypto owners | ETHPrague 2024 |  | [Devfolio](https://devfolio.co/projects/smartrental-9eeb) · [Code](https://github.com/OpenTechne/Smartrental-hackaton-eth-prague-2024) |
 | Jun 2023 | **The Sand Walker**: a gamified platform to learn Cairo 1.0 contract vulnerabilities | ETHPrague 2023 |  | [Devfolio](https://devfolio.co/projects/the-sand-walker-9191) · [Code](https://github.com/OpenTechne/TheSandWalker) |
 | Aug 2022 | **zk Verifiable Credentials DB**: encrypted on-chain credentials database with selective disclosure through ZK proofs | zkDAO @ Harmony | 🎖️ zkDAO Prize Grant for Builders | [Code](https://github.com/GianfrancoBazzani/zk-Verifiable-Credentials-DB) |
+
+## 🛠️ Projects
+
+- **[EVM Storage Codes](https://evm-storage.codes/)**: a web tool that shows, compares and analyzes the storage layout of EVM contracts · [Code](https://github.com/GianfrancoBazzani/evm-storage.codes/)
+- **[Uniswap v4 Hook Address Miner](https://v4hookaddressminer.xyz/)**: a multithread vanity address miner for Uniswap v4 hooks · [Code](https://github.com/GianfrancoBazzani/uni-v4-hook-address-miner/)
+- **[OpenZeppelin MCP](https://mcp.openzeppelin.com/)**: MCP servers that give AI tools access to the OpenZeppelin contract libraries · [Code](https://github.com/OpenZeppelin/openzeppelin-mcp)
+- **[CriptoNuvis Collection](https://opensea.io/collection/criptonuvis-27269542)**: an NFT wedding gift platform with a guest collection, a shared photo gallery and a crypto vault · [Code](https://github.com/GianfrancoBazzani/cripto-nuvis-collection)
+
+## 📓 Notes
+
+- **[My Public Obsidian Vault](https://github.com/GianfrancoBazzani/my-public-obsidian-vault)**: my public notes on Web3, security and AI.
