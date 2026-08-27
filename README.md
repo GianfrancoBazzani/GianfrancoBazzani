@@ -10,7 +10,7 @@
 
 ## 📓 Notes
 
-- **[My Public Obsidian Vault](https://github.com/GianfrancoBazzani/my-public-obsidian-vault)**: my public notes on Web3, security and AI.
+- **[My Public Obsidian Vault](https://github.com/GianfrancoBazzani/my-public-obsidian-vault)**: my public notes.
 
 ## 🏆 Hackathon projects
 
