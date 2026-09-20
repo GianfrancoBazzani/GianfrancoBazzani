@@ -16,6 +16,7 @@
 
 | Date | Project | Hackathon | Prizes | Links |
 |---|---|---|---|---|
+| Sep 2026 | **HolPro**: agentic coaching platform that gives coaches leverage and coachees a personal assistant | HackBarna AI Summit 2026 |  | [Live](https://holpro.health/) · [Code](https://github.com/GianfrancoBazzani/HolPro) |
 | Jul 2026 | **Orloj Finance Agents**: Sourcify-verified contracts turned into MCPs, with key management abstracted away | ETHGlobal Lisbon 2026 | 🏅 0G: Keep Building on 0G | [ETHGlobal](https://ethglobal.com/showcase/orloj-finance-agents-jejoc) · [Code](https://github.com/GianfrancoBazzani/orloj-registry) |
 | May 2026 | **Orloj**: let AI agents transact on-chain, safely | ETHPrague 2026 | 🥈 Sourcify: Second Prize<br>🌊 SpaceComputer: Pool Prize | [Devfolio](https://devfolio.co/projects/orloj-597c) · [Code](https://github.com/GianfrancoBazzani/orloj-registry) |
 | Apr 2026 | **Croisette.cc**: 24/7 investing managed by AI agents on-chain | ETHGlobal Cannes 2026 | 🥇 0G: Best OpenClaw Agent on 0G | [ETHGlobal](https://ethglobal.com/showcase/croisette-cc-8vdfk) · [Code](https://github.com/GianfrancoBazzani/croisette.cc) |
