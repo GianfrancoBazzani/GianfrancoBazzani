@@ -7,6 +7,7 @@
 - **[Uniswap v4 Hook Address Miner](https://v4hookaddressminer.xyz/)**: a multithread vanity address miner for Uniswap v4 hooks · [Code](https://github.com/GianfrancoBazzani/uni-v4-hook-address-miner/)
 - **[OpenZeppelin MCP](https://mcp.openzeppelin.com/)**: MCP servers that give AI tools access to the OpenZeppelin contract libraries · [Code](https://github.com/OpenZeppelin/openzeppelin-mcp)
 - **[CriptoNuvis Collection](https://opensea.io/collection/criptonuvis-27269542)**: a gift for the wedding of my friends that is an NFT collection for the guests · [Code](https://github.com/GianfrancoBazzani/cripto-nuvis-collection)
+- **[Hydra Browsers](https://github.com/GianfrancoBazzani/hydra-browsers)**: isolated Chromium sessions on your own server that humans and AI agents control together, with a live view and MCP
 
 ## 📓 Notes
 
